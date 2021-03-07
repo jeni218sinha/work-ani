@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start:prod": "node server.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -22,6 +23,7 @@
     "@cds/core": "5.0.3",
     "@clr/angular": "5.0.3",
     "@clr/ui": "5.0.3",
+    "express": "^4.17.1",
     "ngx-typed-js": "^2.0.2",
     "ngx-wow": "^2.0.1",
     "rxjs": "~6.6.0",
