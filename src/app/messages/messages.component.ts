@@ -272,6 +272,11 @@ export class MessagesComponent implements OnInit {
         '\n' +
         'I remember you were the first person in our org apart from the team who introduced himself and came forward to interact at the time of my joining. Working with you has been a great journey so far.  I have always found you a jolly person who is always up with some fresh and old punchlines 😛. Your positive attitude in every situation makes the work environment healthy. You know how to dig the hidden potential among others. Its always easy to bring out discussions with you without hesitation, what so ever be the topic. Your suggestions always help us to find concrete solution. At last, I wish you more success ahead. \n' +
         '\n'
+    },
+    {
+      name: 'Deepti Bhardwaj',
+      imgpath: '',
+      msg: 'Congratulations on hitting this big milestone, Achindra! Many more to come in the future; cheers!'
     }
   ];
 

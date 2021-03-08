@@ -21,7 +21,8 @@ export class TypingjsComponent implements OnInit {
     {name: 'Vaibhav Gupta', words: ['Logical', 'Simple', 'Empathetic ']},
     {name: 'Mukul Verma', words: ['Energetic', 'Compassionate', 'Optimistic']},
     {name: 'Mohit', words: ['Strong', 'Positive', 'Hard working']},
-    {name: 'Jayneeta', words: ['Mentor', 'Motivation therapist']}
+    {name: 'Jayneeta', words: ['Mentor', 'Motivation therapist']},
+    {name: 'Rahul Dev Burman', words: ['Organized', 'Friendly', 'Tech Savvy']}
   ];
   joinWords = ['says ', 'thinks that you are a ', 'feels', 'thinks of you as a', 'adds', 'calls you'];
 
