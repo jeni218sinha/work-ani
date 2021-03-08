@@ -96,7 +96,7 @@ export class MessagesComponent implements OnInit {
       msg: 'Achindra, in short time I really liked working with you, you are just an awesome person.'
     },
     {
-      name: 'Rajay Gupta',
+      name: 'Rajat Gupta',
       imgpath: '',
       msg: 'Hi Achindra! I was an intern in Microsoft during Summer 2020. It was entirely virtual, and so I couldn\'t ever get a chance to meet you in person. But I wish to tell you that even without a direct interaction you have had a profound impact on me, solely through the quality and perfection in your work. I was handling a piece of code that you must have written a few years back, and I just want to say that I am very well sure that you are one person from whom everyone can a learn a lot. Congratulations on your impactful 10 years. Wishing you lots of success, and many more years at Microsoft (because I\'ll be there too). Hoping to meet you soon..\n' +
         '\n'
@@ -187,7 +187,7 @@ export class MessagesComponent implements OnInit {
     },
     {
       name: 'Prafulla Sharma',
-      imgpath: 'https://media2.giphy.com/media/g9582DNuQppxC/giphy-downsized.gif?cid=00340317j6ix4i1d3kts80w1xs9y8tdom5nwmtwim7g55952&rid=giphy-downsized.gif',
+      imgpath: 'https://media4.giphy.com/media/MdYkjCcov4CrNs0oaJ/giphy.gif?cid=0034031792wbkdzao1tl7c2kzbhck8ijh4m7swoiubx5jdal&rid=giphy.gif',
       msg: 'Congratulations Achindra for amazing 10 years @Microsoft ! Wishing you many more great years at Microsoft. Enjoy your time !'
     },
     {
@@ -230,16 +230,6 @@ export class MessagesComponent implements OnInit {
         'It is a great milestone.\n' +
         '\n' +
         'Looking forward to work with you :) \n' +
-        '\n'
-    },
-    {
-      name: 'Pranav Raj',
-      imgpath: 'https://media2.giphy.com/media/g9582DNuQppxC/giphy-downsized.gif?cid=00340317j6ix4i1d3kts80w1xs9y8tdom5nwmtwim7g55952&rid=giphy-downsized.gif',
-      msg: 'Congratulations on achieving this great milestone. \n' +
-        '\n' +
-        'I hope to celebrate many such milestones for you in future.  \n' +
-        '\n' +
-        'Wishing you many more years to come!!!\n' +
         '\n'
     },
     {
