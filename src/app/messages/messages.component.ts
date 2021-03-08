@@ -187,12 +187,12 @@ export class MessagesComponent implements OnInit {
     },
     {
       name: 'Prafulla Sharma',
-      imgpath: '',
+      imgpath: 'https://media2.giphy.com/media/g9582DNuQppxC/giphy-downsized.gif?cid=00340317j6ix4i1d3kts80w1xs9y8tdom5nwmtwim7g55952&rid=giphy-downsized.gif',
       msg: 'Congratulations Achindra for amazing 10 years @Microsoft ! Wishing you many more great years at Microsoft. Enjoy your time !'
     },
     {
       name: 'Srikanth Mandalapu',
-      imgpath: 'https://media4.giphy.com/media/MdYkjCcov4CrNs0oaJ/giphy.gif?cid=0034031792wbkdzao1tl7c2kzbhck8ijh4m7swoiubx5jdal&rid=giphy.gif',
+      imgpath: '',
       msg: 'Congratulations Achindra on your 10 years association with Microsoft...!!!\n' +
         '\n' +
         'Its really awesome milestone and demonstrates how you enjoy working here...!!!\n' +
@@ -259,6 +259,29 @@ export class MessagesComponent implements OnInit {
         'Thank you for being a friend in need and all Chai time talks. \n' +
         '\n' +
         'Congratulations on completing 10 Years at Microsoft! '
+    },
+    {
+      name: 'Zehavit Mayer',
+      imgpath: '',
+      msg: 'Dear Achindra,\n' +
+        '\n' +
+        '10 years is a significant career milestone:) \n' +
+        '\n' +
+        'Thanks for the collaboration between the teams,\n' +
+        '\n' +
+        'the energy and the professional to achieve the goals together.\n' +
+        '\n' +
+        'Pleasure working with, for the cooperation, the efforts, the friendship and the spirit.\n' +
+        '\n' +
+        'Many thanks for your contributions to the formation and growth of the v-team.'
+    },
+    {
+      name: 'Veerendra Gupta',
+      imgpath: 'https://media0.giphy.com/media/BQAk13taTaKYw/giphy.gif?cid=003403172q6di1n7lyb1dl68wb47wb6slq81nn19eptqlfif&rid=giphy.gif',
+      msg: 'Congratulations Achin!\n' +
+        '\n' +
+        'I remember you were the first person in our org apart from the team who introduced himself and came forward to interact at the time of my joining. Working with you has been a great journey so far.  I have always found you a jolly person who is always up with some fresh and old punchlines 😛. Your positive attitude in every situation makes the work environment healthy. You know how to dig the hidden potential among others. Its always easy to bring out discussions with you without hesitation, what so ever be the topic. Your suggestions always help us to find concrete solution. At last, I wish you more success ahead. \n' +
+        '\n'
     }
   ];
 
