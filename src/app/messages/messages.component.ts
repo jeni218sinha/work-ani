@@ -277,6 +277,16 @@ export class MessagesComponent implements OnInit {
       name: 'Deepti Bhardwaj',
       imgpath: '',
       msg: 'Congratulations on hitting this big milestone, Achindra! Many more to come in the future; cheers!'
+    },
+    {
+      name: 'Dima Sirotnikov',
+      imgpath: 'https://media0.giphy.com/media/5XNO47nnjNpaE/giphy-downsized.gif?cid=00340317ile7l9vhqtcouugecme264z75wazf4ovt0j42mgl&rid=giphy-downsized.gif',
+      msg: 'Happy 10th Anniversary at Microsoft!\n' +
+        'Working with you is a real pleasure, and I really appreciate your contribution and your voice on the things we\'ve worked together. You\'re also a good person, and a good friend, which makes team work with you an extra pleasure.\n' +
+        'Keep on rocking, and hitting all the milestones you set for yourself!\n' +
+        '\n' +
+        'Your friend, Dima\n' +
+        '\n'
     }
   ];
 
